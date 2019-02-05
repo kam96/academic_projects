@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../core/BSTSet.hpp
+Set.hpp
+../core/Set.hpp
+
+../provided/Set.hpp
+
+/home/ics46/projects/Proj03/exp/expmain.cpp
+iostream
+-
+BSTSet.hpp
+/home/ics46/projects/Proj03/exp/BSTSet.hpp
+
