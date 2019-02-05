@@ -1,4 +1,4 @@
-# academic_projects
+# academic_projects (editing)
 
 # Project 1 (Proj01) Maze Generator/Maze Solver
 
